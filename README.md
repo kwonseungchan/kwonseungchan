@@ -1,71 +1,42 @@
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=03102b&height=150&section=header&text=Welcome%20Kwon's%20repo!&fontColor=fffff0&fontSize=50&animation=fadeIn&fontAlignY=55)
+# 👋 안녕하세요. 권승찬입니다. Hello. I'm SeungChan Kwon
 
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
 
-<br>
+- 숭실대학교 AI융합학과 석사과정
+- M.S. Student in AI at Soongsil University, Major of AI Convergence
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
 
-<br>
+## 📪 Contact
+- `Email` | kwonsc3636@gmail.com
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
+## 🏁 AI challenge
+- 2022 교내 AI 융합 경진 대회 - 우수상 
+(2022 School-wide AI Convergence Competition - Excellence Award)
 
-<br>
+- 2023 SW중심대학 공동 AI 경진대회 SW중심대학협의회장상  
+(2023 University National Center of Excellence in Software Joint AI Competition - Chairman’s Award)
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
+- 2023 2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation 10등  
+(2023 Samsung AI Challenge - 10th Place in Camera-Invariant Domain Adaptation)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
+## 🏁 Other award 
+- 2019 Global Venture School hackathon Excellence Award
+- 2019 Spartan Winning Startup Camp - President's Award of Soongsil University
 
-<br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
+## 🌟 Relevant Experience
+- 2024 SW 동행 해커톤 대학생 멘토  
+(2024 SW DONGHANG Hackathon - University Mentor, Hosted by the Ministry of Science and ICT)
 
-<br>
+## 📜 Publications
+- 이종 특징 맵을 이용한 교차 어텐션 기반 소형 객체 검출 기법, 한국지능시스템학회(KIIS) 추계학술대회, 2024  
+(Small Object Detection Method Based on Cross Attention of Heterogeneous Feature Maps, Korean Institute of Intelligent Systems(KIIS) Fall Conference, 2024)
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
+## ⌚ 연혁(Timeline)<br/> 
+|활동|기간|비고|
+|:---:|:---:|:---:|
+|숭실대학교 AI융합학부  (Soongsil University, School of AI Convergence)|2018.03~2024.02 |-|
+| 숭실대학교 AI융합학부 학생회 (Soongsil University, Student Council of School of AI Convergence) | 2018.07~2019.07 | - |
+|육군(Republic of Korea Army) | 2020.03~2021.9 | 육군 병장 만기제대 (Honorable Discharge as Army Sergeant) |
+|숭실대학원 AI융합학과 석사과정  (M.S. Student in AI at Soongsil University) | 2024.03~ |Computer Vision Research| 
