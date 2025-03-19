@@ -14,8 +14,8 @@
 - 2022 교내 AI 융합 경진 대회 - 우수상 
 (2022 School-wide AI Convergence Competition - Excellence Award)
 
-- 2023 SW중심대학 공동 AI 경진대회 SW중심대학협의회장상  
-(2023 University National Center of Excellence in Software Joint AI Competition - Chairman’s Award)
+- 2023 SW중심대학 공동 AI 경진대회 SW중심대학협의회장상  -위성 이미지 건물 영역 분할
+(2023 University National Center of Excellence in Software Joint AI Competition - Chairman’s Award)- (Satellite Image Building Area Segmentation)
 
 - 2023 2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation 10등  
 (2023 Samsung AI Challenge - 10th Place in Camera-Invariant Domain Adaptation)
