@@ -17,8 +17,10 @@
 - 2023 SW중심대학 공동 AI 경진대회 SW중심대학협의회장상  -위성 이미지 건물 영역 분할
 (2023 University National Center of Excellence in Software Joint AI Competition - Chairman’s Award)- (Satellite Image Building Area Segmentation)
 
-- 2023 2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation 10등  
+- 2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation 10등  
 (2023 Samsung AI Challenge - 10th Place in Camera-Invariant Domain Adaptation)
+
+- 2023 Outstanding Paper Award from Soongsil university
 
 ## 🏁 Other award 
 - 2019 Global Venture School hackathon Excellence Award
