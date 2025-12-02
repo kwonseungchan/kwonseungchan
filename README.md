@@ -32,6 +32,7 @@
 (2024 SW DONGHANG Hackathon - University Mentor, Hosted by the Ministry of Science and ICT)
 
 ## 📜 Publications
+- Segmentation-guided and Prior-Aided Routing for Small Object Detection, WACV , 2026
 - 이종 특징 맵을 이용한 교차 어텐션 기반 소형 객체 검출 기법, 한국지능시스템학회(KIIS) 추계학술대회, 2024  
 (Small Object Detection Method Based on Cross Attention of Heterogeneous Feature Maps, Korean Institute of Intelligent Systems(KIIS) Fall Conference, 2024)
 
